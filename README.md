@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thiagomiarelli
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning React
+- 🌱 I’m currently studying Elixir and Phoenix
+- 👉 I work at @betrybe
 - 📫 How to reach me: thiagomiarelli@gmail.com
 
 <!---
