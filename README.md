@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 🚀 Elixir and Phoenix (2yrs. xp.) | Python (3yrs. academic experience)  
 👟 Currently studing React and NodeJS (4mo. study)  
 
-## 🚀  Stacks 
+### 🚀  Stacks 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
